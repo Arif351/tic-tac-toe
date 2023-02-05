@@ -32,3 +32,13 @@
     left: 0;
     bottom: 24px;
 }
+
+.registration-block-title {
+    font-family: 'Epilogue';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 32px;
+    letter-spacing: -0.05em;
+    color: #333333;
+}
